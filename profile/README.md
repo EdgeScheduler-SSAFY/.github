@@ -60,19 +60,19 @@
 
 # 서비스 화면 🎬
 
-| ![Sign in](./assets/screen/signin.gif) | ![Personal Schedule](./assets/screen/personal_schedule.gif) |
+| ![Sign in](/assets/screen/signin.gif) | ![Personal Schedule](/assets/screen/personal_schedule.gif) |
 | :------------------------------------: | :---------------------------------------------------------: |
 |                 로그인                 |                    일정 등록, 수정, 삭제                    |
 
-| ![Set Personal Info](./assets/screen/set_personal_info.gif) | ![Create Meeting](./assets/screen/create_meeting.gif) |
+| ![Set Personal Info](/assets/screen/set_personal_info.gif) | ![Create Meeting](/assets/screen/create_meeting.gif) |
 | :---------------------------------------------------------: | :---------------------------------------------------: |
 |                       근무 시간 설정                        |                       회의 생성                       |
 
-| ![Meeting Accept](./assets/screen/meeting_accept.gif) | ![Meeting Update](./assets/screen/meeting_update.gif) |
+| ![Meeting Accept](/assets/screen/meeting_accept.gif) | ![Meeting Update](/assets/screen/meeting_update.gif) |
 | :---------------------------------------------------: | :---------------------------------------------------: |
 |                       회의 수락                       |                       회의 수정                       |
 
-| ![Meeting Proposal](./assets/screen/meeting_proposal.gif) | ![Meeting Cancel](./assets/screen/meeting_cancel.gif) |
+| ![Meeting Proposal](/assets/screen/meeting_proposal.gif) | ![Meeting Cancel](/assets/screen/meeting_cancel.gif) |
 | :-------------------------------------------------------: | :---------------------------------------------------: |
 |                회의 거절(새로운 시간 제안)                |                       회의 삭제                       |
 
@@ -157,25 +157,25 @@
 ### ✨ 1. MSA
 
 <div align="start">
-<img src="../assets/MSA.png" alt="MSA" width="90%" height="70%">
+<img src="/assets/MSA.png" alt="MSA" width="90%" height="70%">
 </div>
 
 ### ✨ 2. Event-Driven Architecture 구축
 
 <div align="start">
-<img src="../assets/kafka.png" alt="kafka" width="50%" height="70%">
+<img src="/assets/kafka.png" alt="kafka" width="50%" height="70%">
 </div>
 
 ### ✨ 3. 마이크로 서비스 서버별 DB 분리
 
 <div align="start">
-<img src="../assets/DB분리.png" alt="DB분리" width="50%" height="70%">
+<img src="/assets/DB분리.png" alt="DB분리" width="50%" height="70%">
 </div>
 
 ### ✨ 4. 비동기 알림 처리
 
 <div align="start">
-<img src="../assets/webflux.png" alt="Spring WebFlux" width="50%" height="70%">
+<img src="/assets/webflux.png" alt="Spring WebFlux" width="50%" height="70%">
 </div>
 <br />
 
@@ -186,25 +186,25 @@
 ### 🏛 서비스 아키택처
 
 <div align="start">
-<img src="../assets/서비스아키텍처.png" alt="architecture" width="70%" height="70%">
+<img src="/assets/서비스아키텍처.png" alt="architecture" width="70%" height="70%">
 </div>
 
 ### 🛢︎ ERD
 
 <div align="start">
-<img src="../assets/ERD.png" alt="ERD" width="70%" height="70%">
+<img src="/assets/ERD.png" alt="ERD" width="70%" height="70%">
 </div>
 
 ### [📄 API 명세서](https://cheddar-cloudberry-278.notion.site/API-d58760b094f04775b51fe521ff9c8015?pvs=74)
 
 <div align="start">
-<img src="../assets/api명세서.png" alt="api명세서" width="70%" height="70%">
+<img src="/assets/api명세서.png" alt="api명세서" width="70%" height="70%">
 </div>
 
 ### [🎨 화면 설계서](https://www.figma.com/design/WZr1HQ1PfhMd3nINjNrb3b/%F0%9F%93%B0?node-id=0%3A1&t=Y5XH75ckJ86cDiE9-1)
 
 <div align="start">
-<img src="../assets/figma.png" alt="화면설계서" width="70%" height="70%">
+<img src="/assets/figma.png" alt="화면설계서" width="70%" height="70%">
 </div>
 
 <br/>
