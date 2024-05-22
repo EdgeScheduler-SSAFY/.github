@@ -2,7 +2,7 @@
 
 > SSAFY 10기 자율 프로젝트 서울 1반 Edge Scheduler (2024.04.08 ~ 2024.05.20)
 
-<img src="../assets/edgeScheduler.jpg" width="80%">
+<img src="/assets/edgeScheduler.jpg" width="80%">
 
 <br/>
 
